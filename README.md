@@ -1,4 +1,4 @@
-![330041292-bc0b8b0d-184b-4198-ba03-66b8a34c670f](https://github.com/Gajalakshmivelmurugan/Implementation-of-SVM-For-Spam-Mail-Detection/assets/144871940/cc4f72ff-01e5-492a-8998-5a4b6e4b3277)# Implementation-of-SVM-For-Spam-Mail-Detection
+# Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
